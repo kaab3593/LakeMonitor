@@ -31,6 +31,10 @@ Below is the resulting area and boundary length plots from the Random Forest seg
 
 ![Random Forest Segmentation](plots/landsat_rdf.png)
 
+Here is the results from K-Means clustering.
+
+![KMeans Segmentation](plots/landsat_kmeans-1.png)
+
 
 ## License
 

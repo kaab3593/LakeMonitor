@@ -29,7 +29,7 @@ Scripts can be run independently from the command line.
 
 Below is the resulting area and boundary length plots from the Random Forest segmentation.
 
-![Random Forest Segmentation](plots/landsat_rdf.pdf)
+![Random Forest Segmentation](plots/landsat_rdf.png)
 
 
 ## License
